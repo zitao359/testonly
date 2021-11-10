@@ -14,4 +14,4 @@ function setBGC() {
 	var i = random(0, 5);
 	document.getElementById("imgBg").style.background = colorArr[i];
 }
-setInterval(setBGC, 300);
+setInterval(setBGC, 36000000);
